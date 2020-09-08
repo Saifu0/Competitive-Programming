@@ -1,0 +1,126 @@
+// ----- In the name of ALLAH, the Most Gracious, the Most Merciful -----
+
+#include<bits/stdc++.h>
+using namespace std;
+
+#define NINJA ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
+#define fo(i,n) for(int i=0;i<n;i++)
+#define Fo(i,k,n) for(int i=k;i<n;i++)
+#define for1(i,n) for(int i=1;i<=n;i++)
+#define dloop(i,n) for(int i=n-1;i>=0;i--)
+#define all(a) a.begin(),a.end()
+#define iii tuple<int,int,int>
+#define vi vector<int>
+#define ii pair<int,int>
+#define vii vector<ii>
+#define int long long
+#define ld long double
+#define pb push_back
+#define endl "\n"
+#define setbits __builtin_popcountll
+#define mp map<int,int>
+#define F first
+#define S second
+#define sz(v) (int)v.size()
+#define mod 1000000007
+#define inf (int)1e18
+
+const int mxn = 510;
+int a[mxn][mxn],b[mxn][mxn];
+int n,m;
+
+int32_t main(){
+    NINJA;
+
+	cin >> n >> m;
+	for1(i,n) for1(j,m) cin >> a[i][j];
+	for1(i,n) for1(j,m) cin >> b[i][j];
+	
+	bool f = 1;
+	while(1){
+		bool ok = 0;
+		f = 1;
+		for1(i,n){
+			for1(j,m){
+				if(a[i][j]!=b[i][j]){
+					int x1=i,y1=j;
+					int x2=-1,y2=-1;
+					bool ff = 0;
+					for(int k=j+1;k<=m;k++){
+						if(a[i][k]!=b[i][k]){
+							ff = 1;
+							x2 = i, y2 = k;
+							break;
+						}
+					//	if(ff) break;
+					}
+					for(int k=j-1;k>=1;k--){
+						if(a[i][k]!=b[i][k]){
+							x2 = i, y2 = k;
+							break;
+						}
+					}
+					ff = 0;
+					int x3=-1,y3=-1;
+					for(int k=i+1;k<=n;k++){
+						if(a[k][j]!=b[k][j]){
+							x3 = k, y3 = j;
+							break;
+						}
+					}
+
+					for(int k=i-1;k>=1;k--){
+						if(a[k][j]!=b[k][j]){
+							x3 = k, y3 = j;
+							break;
+						}
+					}
+					int x4 = -1, y4= -1;
+					if(y2!=-1){
+						for(int k=i+1;k<=n;k++){
+							if(a[k][y2]!=b[k][y2]){
+								x4 = k, y4 = y2;
+								break;
+							}
+						}
+						for(int k=i-1;k>=1;k--){
+							if(a[k][y2]!=b[k][y2]){
+								x4 = k, y4 = y2;
+								break;
+							}
+						}
+					}
+					if(x2==-1||y2==-1||x3==-1||y3==-1||x4==-1||y4==-1){
+						ok = 1;
+						break;
+					}
+					a[x1][y1] = b[x1][y1];
+					a[x2][y2] = b[x2][y2];
+					a[x3][y3] = b[x3][y3];
+					a[x4][y4] = b[x4][y4];
+				}
+			}
+			if(ok==1) break;
+		}
+		//bool f = 1;
+		for1(i,n){
+			for1(j,m){
+				f=f&&(a[i][j]==b[i][j]);
+			}
+		}
+		if(f || ok==1) break;
+	}
+
+	for1(i,n){
+		for1(j,m){
+			cout << a[i][j];
+		}
+		cout << endl;
+	}
+
+	if(f==1) cout << "Yes" << endl;
+	else cout << "No" << endl;
+    
+    return 0;
+}
+

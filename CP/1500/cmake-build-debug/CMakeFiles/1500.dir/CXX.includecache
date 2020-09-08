@@ -1,0 +1,3166 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Saifur Rehman/Documents/CP/1500/1002.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/1025.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/172A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/172B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/172C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/2D_segment_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/633A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/633B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/633C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/635A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/635B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/635C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/636A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/636B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/636C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/636D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/636E.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/637A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/637B.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/637C.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/638A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/638B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/638C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/638D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/639A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/639B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/639C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640E.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640F.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/640G.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/642A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/642B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/642C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/642D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/642E.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/642F.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/643A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/643B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/643C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/643D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/644A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/644B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/644C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/645A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/645B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/645C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/645D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/646A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/646B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/646C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/647A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/647B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/647C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/648A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/648B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/648C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/648D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/649A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/649B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/650A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/650B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/650C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/651A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/651B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/651C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/652A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/652B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/652C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/653A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/653B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/653C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/653D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/85A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/85B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/85C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/87A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/87B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/87C.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/87D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/88A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/88B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/88C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/88D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/89A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/89B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/89C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/89D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/90B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/90C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC155.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC156.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC157.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC163A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC163B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC163C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC163E.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC170A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC170B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC170C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ABC170D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/AFC045A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/AGC045B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/A_and_B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/AbcA.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/AbcC.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Arithmetic_progression.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Constanze_machine.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day1A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day1C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day1D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day1E.cpp
+cstdio
+-
+iostream
+-
+ctime
+-
+cassert
+-
+cstdlib
+-
+cmath
+-
+cstring
+-
+vector
+-
+algorithm
+-
+vector
+-
+map
+-
+set
+-
+queue
+-
+bitset
+-
+stack
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day2A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day2B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day2C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day2D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Day3C.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/EllysConjectureDiv2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Global8B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Global8C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Gobal8A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/1.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/3.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/4.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/5.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/6.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/a.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/b.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/c.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/d.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/e.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringA.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringB.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringC.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringD.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringE.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/test.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/vasya_golden_ticket.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Mashmokh_numbers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Mashup1.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Mashup1A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Mashup1B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Motarack_birthday.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/PI.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Palindrome_transformation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Pythagorean_triple.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/SSSP.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Tetrahedron.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Timofey_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/Zmei_Gorynich.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/a_b_matrix.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/add_or_not.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/adding_reverse_num.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/air_condititon.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/alchemist.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/almost_arithmetic_progression.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/almost_arithmetical_progression.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/alternating_character.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/and_operation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/anu_has_function.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/anya_ghost.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/apartment.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/apple_division.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/appy_contest.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/area8.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena10.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena11.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena12.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena13.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena15.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena16.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena17.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena18.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena19.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena20.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena21.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena22.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena23.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena25.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena27.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena28.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena6.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena7.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arena9.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/arrange_students.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/array_description.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/array_division.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/array_splitting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/array_transform.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/as_simple_as_one_two.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/badge.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ballons.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/barcode.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/basketball_exercise.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_and_finding_criminal.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_frndship.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_poker.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_prime_100.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_prime_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_raspberry.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_steady_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bear_strings.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/beautiful_set_point.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bertown.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/big_mod.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bigger_is_greater.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/billard.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/binary_xor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/binomial_coefficient.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/biologist.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bipartite.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/birthday_present.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bit++.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bit_strings.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/black_white_painting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/blackjack.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bombs.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bon_appetit.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/book_shop.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/book_worm.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/booking_system.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/boxers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/brackets.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/brownie_points.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/building_roads.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/building_teams.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/bulbs.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/burglar_matches.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/burning_midnight_oil.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/buying_new_substring.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/buying_shovels.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cache_hit.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/caisa_pylons.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/candies.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/candy_box.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/case_of_zero_one.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ceasar_legion.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/charging.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chat_online.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/checkpoints.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_adventures.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_and_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_bitwise_product.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_counting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_demonestation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_digit_jumps.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_frogs.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_good_subsequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_got_recipe.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_icecream.cpp
+iostream
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_price_control.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_rotation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_semi_primes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_square.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_subset.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_sum.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chef_weird_queries.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chessboard_queen.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/child_toy.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chocolate.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/chritmas_party.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ciel_dancing.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ciel_flower.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cinema_line.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cloudy_day.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/codejam1Ba.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/codejam1Bb.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/codejam1Bc.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/codejam1CA.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/codejam1CB.cpp
+
+C:/Users/Saifur Rehman/Documents/CP/1500/coffee_coursework.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/coin_combination_I.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/coin_combination_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/coin_piles.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/coins.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/color_stripe.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/combination.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/combinations.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/common_child.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/common_divisor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/comparator.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/compilation_error.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/complete_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/concert_ticket.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/consecutive_subsequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/continent.cpp
+stdio.h
+-
+string.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/convert_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/corona_spread.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cound_triplet.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/count_kprime.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/count_subarray.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/count_subrectangles.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/count_substring.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/counting_divisor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/counting_kangaroo.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/counting_rooms.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/course_scheduling.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/covid_sampling.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cow_poker_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/creating_contest.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/creating_string_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/creating_strings.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/culprit.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cutting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cycle_detection.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cycle_finding.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/cyclic_component.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/day1.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/decoding.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/delivery_man.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/destroy_hotel.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/detective_s.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/devu_dumb_guy.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/dice_combination.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/digit_length_sum.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/dima_staircase.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/distinct_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/distributing_apples.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/div3A.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/div3B.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/div3C.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/div3D.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/div_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/diverse_garland.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/diverse_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/divide_3_mul_2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/division_team.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/drazil_date.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/drazil_factorial.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/dreamon_wifi.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/drunk_jailer.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/duff_love.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/easy_fibonnaci.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/easy_math.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ecological.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/edit_distance.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/elections.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/electricity.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/elephant_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/elephant_tshirt.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/encryption.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/escape.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/escape_one.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/escape_stone.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/eugene_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/euron_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/even_matrix.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/everyone_winnner.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/exams.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/exponentation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/extended_gcd,cpp.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/factor_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/factory_machines.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fadi_lcm.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fancy_fence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fantasy_league.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/feasible_relation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fenwick_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ferris_wheel.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fibonacci_num.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fight_monster.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/filename.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/filya_homework.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/find_the_duplicate_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/finding_bridges.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fire_escape_route.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fixing_typos.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/flight_discount.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/flight_route.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/flip_coins.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/flowers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/forming_teams.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fox_box.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/fox_dots.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/friend_gifts.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/frog1.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/frog2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/game_outcome.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/game_routes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/garbage.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/gargari_bishop.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/george_Accommodation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/george_job.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/good_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/good_numbers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/goodland_city.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/gravel.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/greedy_florist.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/grid_path.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/grid_paths.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/group_of_students.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/growing_mushroom.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/guessing_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/hacking_cypher.cpp
+stdio.h
+-
+string.h
+-
+vector
+-
+set
+-
+map
+-
+algorithm
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/hamburgers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/hanker_chief.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/hard_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/high_score.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/highest_value_palindrome.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/history.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/hometask.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/illya_queries.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/in_out_time.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/increasing_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/increasing_decreasing.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/inna_new_matrix_candies.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/insearch_of_easy.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/inversion_count.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/inversion_permutations.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/investigation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/iou.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/is_it_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/isolation_centers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/it_should_palindrome.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/jeff_periods.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/jewel_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/journy_plan.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/joysticks.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/just_eat_it.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/k_price_of_one.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kcomplete_word.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kconcatenation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kefa_first_step.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kickstart1c_candies.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kickstart1c_countdown.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kickstart1c_perfect_subarray.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/king_path.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/knapsack1.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/knapsack2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/knight_moves.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/koyla_tanya.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kprime.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ksuhsa_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kth_divisor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/kuroni_impossible_calculation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/labyrinth.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ladder.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/laptops.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lca_binary_lifting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lcm.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lcm_challenge.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lcs.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/leader_board.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/learning_graph.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/less_equal.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/letters.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lift_request.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/light_more_light.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/line_cashier.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/little_dima_equation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/little_frog.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/little_girl_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/llya_bank_account.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/longest_flight_route.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/longest_increasing_subsequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/longest_path.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/longest_regular_bracket_sequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/longest_subsequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lose_it.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lost_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lost_numbers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lost_weekend.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/love_rescue.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lucky_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lucky_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lucky_substring.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lucky_sum_digit.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lucky_ticket.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lunar_year_wander.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/lybrinth.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/mafia.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/magic_spheres.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/magic_square.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/magical_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/make_good.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maketree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/marbales.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/marbles.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/marcus.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/marvolo_gaunt_ring.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/mashmokh_acm.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/matrix_decomposition.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/max_min.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/max_pair_seg_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximal_independent_set.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximize_sum.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximum_median.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximum_size_of_set.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximum_subarray_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximum_subarray_sum.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maximum_xor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/mayhem_again.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/maze.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/meeting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/message_route.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/min_seg_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/minimize_permutation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/minimizing_coins.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/minimum_triangulation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/misha_forest.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/missing_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/mixi_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/mixtures.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/mo_unqiue_el.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/money_sums.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_and_search.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_balanced_paranthese.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_checkpoint.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_circular_distance.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_encounter_polynomial.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_graph.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_island.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_mountain.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_new_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_operation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_special_intger.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_takes_a_walk.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monk_watching_fight.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/monster.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/moony_icpc.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/movie_festival.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/movie_festival_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/multiples_3.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/multiplication_2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/multiplication_3.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/multiplication_table.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/nanobots.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/nanobots2.0.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/national_project.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/nearest_smaller_val.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/neko_maze_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/new_keyboard.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/news_distribution.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/next_palind.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/next_test.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/no_factors.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/non_divisible_subset.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/not_real_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/np_hard_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/number_spiral.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/obtain_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/olesya_rodion.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/one_dimension_kingdom.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/operation_on_tuple.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/opposite_attack.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/optimal_network_routing.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/or_in_matrix.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/orac_factor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/orac_lcm.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/orac_models.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ordering_tasks.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/overlapping_rectangle.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/pairs.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/pairwise_and.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/palindrome_reorder.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/palindromic_matrix.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/parallel_resistor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/parity_alternated_deletion.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/password.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/penguin_matrix.cpp
+iostream
+-
+algorithm
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/per_capita_income.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/perfect_keyboard.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/perfect_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/perfect_team.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/periodic_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/permutations.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/petr_combination_lock.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/petya_countryside.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/pipeline.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/pipes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/playboy_chimp.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/playlist.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/pocket_box.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/points_in_figure.cpp
+cmath
+-
+cstdio
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/points_on_line.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/polandball_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/polland_forest.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/polo_penguin.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/polycarp_ribbon.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/polygon.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/positive_mex.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/postering.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/power_of_two.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/powerfull_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/prefessor_trip.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/preparing_olympiad.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/president_office.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/prime_factorization.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/prime_path.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/printing_pattern.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/product.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/professor_trip.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/projects.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/quasibinary.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/queen_attack_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/queue.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/queue_bus_stop.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/random_team.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/range_minimum_queriesI.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/range_minimum_query.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/range_query_sum.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/range_xor_queries_update.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/range_xor_update.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/rank_list.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/rational_resistance.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/reading_books.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/ready_bitwise.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/registration_system.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/removal_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/remove_duplicates.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/remove_one_element.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/removing_column.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/removing_digit.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/repeat_missing.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/repetitions.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/rerouting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/restoring_permutation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/restraunt_customers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/robot_walking.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roll_call.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roma_changing_sign.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roman_calculation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roman_lost_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roman_paradox.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roman_passes_prom.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/roman_summer_vacation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/room_allocation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/root_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/round_trip.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/round_trip_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/rumor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/saif.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/santa.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/seasonal_war.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/seraja_coat.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/seraja_votes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sherlock_anagram.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sherlock_valid_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/shift_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/shortage.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/shortest_route_I.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/shortest_route_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/shuffle.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sigma_horror.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/simple_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/simple_operations.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/simple_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/singhal_broken_keyboard.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/singhal_equality.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/singhal_gcd.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/singhal_missing_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/singhal_number.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/singhal_swap.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sinking_ship.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/size_of_subtree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/skyscraper.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sleepy_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sliding_cost.cpp
+iostream
+-
+vector
+-
+ext/pb_ds/assoc_container.hpp
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sliding_median.cpp
+bits/stdc++.h
+-
+ext/pb_ds/assoc_container.hpp
+-
+ext/pb_ds/tree_policy.hpp
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/smallest_regular.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/social_networking.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/soldier_card.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sort_0_1_2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sort_array.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sort_the_sequence.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sorting.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sorting_vases.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sorting_vases2.0.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sorting_vases3.0.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/spit_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/spoj_eko.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/spy_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/square_subs.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/stacks.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/steps.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/stick_length.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/string_anagram.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/string_modification.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/stripe.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/student_shoelaces.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/subarray_divisibilty.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/subarray_sumI.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/subarray_sum_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/subtraction_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/suffix_structure.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_digits.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_divisor.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_four.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_square_seg_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_three.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_two_val.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/super_hashing.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/swap_adjacent_elements.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/swap_digit.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/sweets_eating.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/table.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/table_chair.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tanya_candies.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tape.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/task_deadlines.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/taxes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/taxi.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/team.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/team_training.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/test.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/the_grid_search.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/theatre_square.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/three_display.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tic_tac_toe_I.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tic_tac_toe_II.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tom_jerry_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tower_of_hanoi.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/towers.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/trailing_zeros.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/treasure_hunt.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tree_difference.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tree_query.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/triangle.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tricky_deal.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/triple_sort.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tuple.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/tuple2.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_arrays.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_bags_potatoes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_gram.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_knights.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_seals.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_set_II.cpp
+iostream
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_sets.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/two_substrings.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/unavilable.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/uniform_generator.cpp
+stdio.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/unusal_competition.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vacation.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vacations.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/valera_plate.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/valera_tubes.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/valera_x.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vanya_exam.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vanya_laterns.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vanya_table.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_cornfield.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_digital_root.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_petya_game.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_public_transport.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_robot.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_string.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/vasya_wrestling.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/warriors.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/wasted_time.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/watchmen.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/water_buying.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/weird_algorithm.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/weird_walk.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/weirdsort.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/wet_shark.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/wood_cutters.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/woodcutter.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/worm_evolution.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/worms.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/wrong_subtraction.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/xenia_colorful_gems.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/xenia_weight.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/xor_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/xor_tree.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/yet_another_broken_keyboard.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/yet_another_counting_problem.cpp
+bits/stdc++.h
+-
+
+C:/Users/Saifur Rehman/Documents/CP/1500/zero_array.cpp
+bits/stdc++.h
+-
+

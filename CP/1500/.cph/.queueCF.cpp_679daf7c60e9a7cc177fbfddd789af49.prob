@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: queueCF","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\queueCF.cpp","tests":[{"id":1594901832526,"input":"4\n92 31\n0 7\n31 0\n7 141\n4\n92 31\n0 7\n31 0\n7 141\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\queueCF.cpp"}

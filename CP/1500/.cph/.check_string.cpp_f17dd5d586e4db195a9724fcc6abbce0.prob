@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: check_string","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\check_string.cpp","tests":[{"id":1594869441936,"input":"bbacc\nbbacc\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\check_string.cpp"}

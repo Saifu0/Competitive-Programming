@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: llya_diplomas","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\llya_diplomas.cpp","tests":[{"id":1594815862783,"input":"6\n1 3\n2 2\n2 2\n6\n1 3\n2 2\n2 2\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\llya_diplomas.cpp"}

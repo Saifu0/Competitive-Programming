@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: helpfulmath","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\helpfulmath.cpp","tests":[{"id":1594811725125,"input":"4\n2 2\n8 2\n-7 0\n-2 6\n1 -14\n16 -12\n11 -18\n7 -14\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\helpfulmath.cpp"}

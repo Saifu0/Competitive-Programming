@@ -1,0 +1,2438 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="1500"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1500">
+				<Option output="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/1500.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 1500"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="1500/fast">
+				<Option output="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/1500.exe" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/mingw32"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include/c++/backward"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../include"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/include-fixed"/>
+					<Add directory="c:\mingw\bin\../lib/gcc/mingw32/6.3.0/../../../../mingw32/include"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 1500/fast"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="C:/MinGW/bin/mingw32-make.exe -f &quot;C:/Users/Saifur Rehman/Documents/CP/1500/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/1002.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/1025.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/172A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/172B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/172C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/2D_segment_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/633A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/633B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/633C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/635A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/635B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/635C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/636A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/636B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/636C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/636D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/636E.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/637A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/637B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/637C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/638A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/638B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/638C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/638D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/639A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/639B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/639C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640E.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640F.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/640G.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/642A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/642B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/642C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/642D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/642E.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/642F.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/643A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/643B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/643C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/643D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/644A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/644B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/644C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/645A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/645B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/645C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/645D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/646A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/646B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/646C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/647A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/647B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/647C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/648A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/648B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/648C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/648D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/649A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/649B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/650A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/650B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/650C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/651A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/651B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/651C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/652A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/652B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/652C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/653A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/653B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/653C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/653D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/85A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/85B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/85C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/87A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/87B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/87C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/87D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/88A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/88B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/88C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/88D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/89A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/89B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/89C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/89D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/90A.cp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/90B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/90C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC155.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC156.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC157.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC163A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC163B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC163C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC163E.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC170A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC170B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC170C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ABC170D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/AFC045A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/AGC045B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/A_and_B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/AbcA.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/AbcC.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Arithmetic_progression.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Constanze_machine.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day1A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day1C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day1D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day1E.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day2A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day2B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day2C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day2D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Day3C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/EllysConjectureDiv2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Global8B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Global8C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Gobal8A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/1.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/3.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/4.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/5.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/6.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/a.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/b.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/c.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/d.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/e.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringA.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringB.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringC.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringD.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/stringE.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/test.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Implementation/vasya_golden_ticket.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Mashmokh_numbers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Mashup1.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Mashup1A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Mashup1B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Motarack_birthday.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/PI.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Palindrome_transformation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Pythagorean_triple.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/SSSP.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Tetrahedron.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Timofey_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/Zmei_Gorynich.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/a_b_matrix.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/add_or_not.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/adding_reverse_num.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/air_condititon.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/alchemist.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/almost_arithmetic_progression.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/almost_arithmetical_progression.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/alternating_character.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/and_operation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/anu_has_function.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/anya_ghost.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/apartment.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/apple_division.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/appy_contest.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/area8.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena10.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena11.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena12.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena13.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena15.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena16.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena17.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena18.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena19.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena20.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena21.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena22.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena23.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena25.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena27.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena28.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena6.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena7.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arena9.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/arrange_students.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/array_description.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/array_division.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/array_splitting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/array_transform.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/as_simple_as_one_two.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/badge.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ballons.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/barcode.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/basketball_exercise.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_and_finding_criminal.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_frndship.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_poker.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_prime_100.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_prime_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_raspberry.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_steady_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bear_strings.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/beautiful_set_point.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bertown.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/big_mod.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bigger_is_greater.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/billard.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/binary_xor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/binomial_coefficient.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/biologist.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bipartite.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/birthday_present.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bit++.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bit_strings.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/black_white_painting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/blackjack.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bombs.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bon_appetit.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/book_shop.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/book_worm.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/booking_system.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/boxers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/brackets.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/brownie_points.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/building_roads.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/building_teams.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/bulbs.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/burglar_matches.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/burning_midnight_oil.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/buying_new_substring.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/buying_shovels.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cache_hit.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/caisa_pylons.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/candies.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/candy_box.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/case_of_zero_one.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ceasar_legion.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/charging.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chat_online.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/checkpoints.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_adventures.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_and_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_bitwise_product.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_counting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_demonestation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_digit_jumps.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_frogs.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_good_subsequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_got_recipe.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_icecream.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_price_control.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_rotation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_semi_primes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_square.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_subset.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_sum.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chef_weird_queries.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chessboard_queen.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/child_toy.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chocolate.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/chritmas_party.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ciel_dancing.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ciel_flower.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cinema_line.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cloudy_day.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/codejam1Ba.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/codejam1Bb.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/codejam1Bc.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/codejam1CA.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/codejam1CB.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/coffee_coursework.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/coin_combination_I.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/coin_combination_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/coin_piles.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/coins.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/color_stripe.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/combination.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/combinations.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/common_child.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/common_divisor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/comparator.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/compilation_error.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/complete_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/concert_ticket.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/consecutive_subsequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/continent.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/convert_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/corona_spread.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cound_triplet.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/count_kprime.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/count_subarray.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/count_subrectangles.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/count_substring.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/counting_divisor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/counting_kangaroo.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/counting_rooms.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/course_scheduling.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/covid_sampling.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cow_poker_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/creating_contest.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/creating_string_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/creating_strings.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/culprit.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cutting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cycle_detection.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cycle_finding.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/cyclic_component.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/day1.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/decoding.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/delivery_man.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/destroy_hotel.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/detective_s.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/devu_dumb_guy.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/dice_combination.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/digit_length_sum.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/dima_staircase.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/distinct_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/distributing_apples.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/div3A.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/div3B.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/div3C.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/div3D.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/div_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/diverse_garland.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/diverse_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/divide_3_mul_2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/division_team.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/drazil_date.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/drazil_factorial.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/dreamon_wifi.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/drunk_jailer.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/duff_love.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/easy_fibonnaci.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/easy_math.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ecological.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/edit_distance.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/elections.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/electricity.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/elephant_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/elephant_tshirt.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/encryption.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/escape.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/escape_one.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/escape_stone.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/eugene_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/euron_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/even_matrix.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/everyone_winnner.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/exams.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/exponentation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/extended_gcd,cpp.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/factor_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/factory_machines.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fadi_lcm.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fancy_fence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fantasy_league.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/feasible_relation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fenwick_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ferris_wheel.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fibonacci_num.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fight_monster.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/filename.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/filya_homework.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/find_the_duplicate_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/finding_bridges.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fire_escape_route.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fixing_typos.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/flight_discount.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/flight_route.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/flip_coins.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/flowers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/forming_teams.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fox_box.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/fox_dots.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/friend_gifts.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/frog1.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/frog2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/game_outcome.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/game_routes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/garbage.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/gargari_bishop.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/george_Accommodation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/george_job.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/good_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/good_numbers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/goodland_city.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/gravel.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/greedy_florist.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/grid_path.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/grid_paths.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/group_of_students.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/growing_mushroom.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/guessing_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/hacking_cypher.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/hamburgers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/hanker_chief.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/hard_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/high_score.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/highest_value_palindrome.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/history.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/hometask.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/illya_queries.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/in_out_time.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/increasing_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/increasing_decreasing.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/inna_new_matrix_candies.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/insearch_of_easy.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/inversion_count.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/inversion_permutations.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/investigation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/iou.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/is_it_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/isolation_centers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/it_should_palindrome.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/jeff_periods.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/jewel_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/journy_plan.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/joysticks.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/just_eat_it.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/k_price_of_one.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kcomplete_word.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kconcatenation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kefa_first_step.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kickstart1c_candies.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kickstart1c_countdown.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kickstart1c_perfect_subarray.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/king_path.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/knapsack1.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/knapsack2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/knight_moves.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/koyla_tanya.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kprime.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ksuhsa_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kth_divisor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/kuroni_impossible_calculation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/labyrinth.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ladder.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/laptops.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lca_binary_lifting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lcm.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lcm_challenge.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lcs.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/leader_board.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/learning_graph.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/less_equal.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/letters.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lift_request.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/light_more_light.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/line_cashier.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/little_dima_equation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/little_frog.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/little_girl_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/llya_bank_account.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/longest_flight_route.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/longest_increasing_subsequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/longest_path.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/longest_regular_bracket_sequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/longest_subsequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lose_it.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lost_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lost_numbers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lost_weekend.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/love_rescue.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lucky_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lucky_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lucky_substring.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lucky_sum_digit.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lucky_ticket.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lunar_year_wander.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/lybrinth.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/mafia.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/magic_spheres.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/magic_square.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/magical_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/make_good.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maketree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/marbales.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/marbles.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/marcus.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/marvolo_gaunt_ring.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/mashmokh_acm.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/matrix_decomposition.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/max_min.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/max_pair_seg_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximal_independent_set.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximize_sum.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximum_median.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximum_size_of_set.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximum_subarray_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximum_subarray_sum.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maximum_xor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/mayhem_again.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/maze.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/meeting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/message_route.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/min_seg_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/minimize_permutation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/minimizing_coins.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/minimum_triangulation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/misha_forest.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/missing_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/mixi_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/mixtures.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/mo_unqiue_el.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/money_sums.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_and_search.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_balanced_paranthese.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_checkpoint.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_circular_distance.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_encounter_polynomial.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_graph.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_island.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_mountain.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_new_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_operation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_special_intger.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_takes_a_walk.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monk_watching_fight.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/monster.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/moony_icpc.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/movie_festival.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/movie_festival_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/multiples_3.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/multiplication_2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/multiplication_3.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/multiplication_table.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/nanobots.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/nanobots2.0.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/national_project.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/nearest_smaller_val.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/neko_maze_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/new_keyboard.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/news_distribution.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/next_palind.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/next_test.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/no_factors.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/non_divisible_subset.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/not_real_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/np_hard_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/number_spiral.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/obtain_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/olesya_rodion.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/one_dimension_kingdom.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/operation_on_tuple.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/opposite_attack.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/optimal_network_routing.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/or_in_matrix.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/orac_factor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/orac_lcm.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/orac_models.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ordering_tasks.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/overlapping_rectangle.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/pairs.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/pairwise_and.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/palindrome_reorder.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/palindromic_matrix.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/parallel_resistor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/parity_alternated_deletion.cp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/parity_alternated_deletion.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/password.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/penguin_matrix.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/per_capita_income.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/perfect_keyboard.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/perfect_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/perfect_team.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/periodic_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/permutations.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/petr_combination_lock.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/petya_countryside.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/pipeline.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/pipes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/playboy_chimp.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/playlist.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/pocket_box.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/points_in_figure.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/points_on_line.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/polandball_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/polland_forest.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/polo_penguin.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/polycarp_ribbon.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/polygon.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/positive_mex.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/postering.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/power_of_two.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/powerfull_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/prefessor_trip.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/preparing_olympiad.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/president_office.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/prime_factorization.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/prime_path.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/printing_pattern.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/product.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/professor_trip.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/projects.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/quasibinary.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/queen_attack_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/queue.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/queue_bus_stop.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/random_team.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/range_minimum_queriesI.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/range_minimum_query.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/range_query_sum.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/range_xor_queries_update.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/range_xor_update.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/rank_list.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/rational_resistance.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/reading_books.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/ready_bitwise.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/registration_system.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/removal_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/remove_duplicates.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/remove_one_element.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/removing_column.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/removing_digit.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/repeat_missing.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/repetitions.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/rerouting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/restoring_permutation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/restraunt_customers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/robot_walking.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roll_call.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roma_changing_sign.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roman_calculation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roman_lost_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roman_paradox.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roman_passes_prom.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/roman_summer_vacation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/room_allocation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/root_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/round_trip.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/round_trip_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/rumor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/saif.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/santa.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/seasonal_war.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/seraja_coat.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/seraja_votes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sherlock_anagram.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sherlock_valid_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/shift_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/shortage.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/shortest_route_I.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/shortest_route_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/shuffle.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sigma_horror.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/simple_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/simple_operations.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/simple_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/singhal_broken_keyboard.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/singhal_equality.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/singhal_gcd.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/singhal_missing_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/singhal_number.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/singhal_swap.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sinking_ship.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/size_of_subtree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/skyscraper.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sleepy_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sliding_cost.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sliding_median.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/smallest_regular.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/social_networking.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/soldier_card.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sort_0_1_2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sort_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sort_the_sequence.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sorting.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sorting_vases.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sorting_vases2.0.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sorting_vases3.0.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/spit_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/spoj_eko.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/spy_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/square_subs.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/stacks.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/steps.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/stick_length.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/string_anagram.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/string_modification.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/stripe.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/student_shoelaces.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/subarray_divisibilty.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/subarray_sumI.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/subarray_sum_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/subtraction_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/suffix_structure.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_digits.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_divisor.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_four.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_square_seg_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_three.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sum_of_two_val.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/super_hashing.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/swap_adjacent_elements.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/swap_digit.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/sweets_eating.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/table.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/table_chair.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tanya_candies.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tape.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/task_deadlines.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/taxes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/taxi.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/team.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/team_training.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/test.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/the_grid_search.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/theatre_square.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/three_display.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tic_tac_toe_I.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tic_tac_toe_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tom_jerry_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tower_of_hanoi.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/towers.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/trailing_zeros.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/treasure_hunt.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tree_difference.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tree_query.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/triangle.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tricky_deal.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/triple_sort.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tuple.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/tuple2.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_arrays.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_bags_potatoes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_gram.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_knights.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_seals.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_set_II.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_sets.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/two_substrings.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/unavilable.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/uniform_generator.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/unusal_competition.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vacation.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vacations.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/valera_plate.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/valera_tubes.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/valera_x.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vanya_exam.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vanya_laterns.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vanya_table.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_cornfield.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_digital_root.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_petya_game.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_public_transport.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_robot.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_string.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/vasya_wrestling.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/warriors.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/wasted_time.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/watchmen.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/water_buying.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/weird_algorithm.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/weird_walk.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/weirdsort.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/wet_shark.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/wood_cutters.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/woodcutter.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/worm_evolution.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/worms.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/wrong_subtraction.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/xenia_colorful_gems.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/xenia_weight.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/xor_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/xor_tree.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/yet_another_broken_keyboard.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/yet_another_counting_problem.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/zero_array.cpp">
+			<Option target="1500"/>
+		</Unit>
+		<Unit filename="C:/Users/Saifur Rehman/Documents/CP/1500/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

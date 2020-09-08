@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: suit_tie","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\suit_tie.cpp","tests":[{"id":1594882565767,"input":"4\n1 1 2 3 3 2 4 4\n4\n1 1 2 3 3 2 4 4\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\suit_tie.cpp"}

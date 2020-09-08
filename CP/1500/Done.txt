@@ -1,0 +1,6 @@
+161
+160
+159
+158
+157  Disjoint Set Union.
+156  Fast-exponentation and Fermat's little a^p-1 = 1 

@@ -1,0 +1,58 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+const int mxn = 1e6+10;
+int prime[mxn];
+
+void sieve(){
+	for(int i=2;i<mxn;i++) prime[i] = i;
+
+	for(int i=4;i<mxn;i+=2) prime[i] = 2;
+
+	for(int i=3;i*i<mxn;i+=2){
+		if(prime[i]==i){
+			for(int j=2*i;j<mxn;j+=i) prime[j]=i;
+		}
+	}
+}
+
+bool vis[mxn];
+int a[mxn];
+
+int main(){
+	int n; cin >> n;
+	
+	for(int i=0;i<n;i++) cin >> a[i];
+	
+	bool ok = 1;
+	for(int i=0;i<n;i++){
+		set<int> st;
+		int x = a[i];
+		while(x!=1){
+			st.insert(x);
+			x/=prime[x];
+		}
+		for(int each : st){
+			if(vis[each]){
+				ok=0;
+				break;
+			}
+			vis[each]=1;
+		}
+		if(!ok) break;
+	}
+	if(ok){
+		cout << "pairwise coprime" << endl;
+		return 0;
+	}
+
+	int g=a[0];
+	for(int i=1;i<n;i++) g=__gcd(g,a[i]);
+
+	if(g==1){
+		cout << "setwise coprime" << endl;
+		return 0;
+	}
+
+	cout << "not coprime" << endl;
+}

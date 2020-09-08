@@ -1,0 +1,36 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+const int mxn = 1e4+10;
+int a[mxn];
+int n;
+int dp[mxn][2];
+
+int solve(int i,int take){
+	if(i==n) return 0;
+	if(i>n) return -1e9;
+
+	int&ans = dp[i][take];
+	if(ans!=-1) return ans;
+
+	ans = 0;
+
+	if(take==0) ans = max(solve(i+1,0),a[i]+solve(i+1,1));
+	else ans = solve(i+1,0);
+
+	return ans;
+}
+
+int main(){
+	int t; cin >> t;
+	while(t--){
+		memset(dp,-1,sizeof(dp));
+		cin >> n;
+		for(int i=0;i<n;i++){
+			cin >> a[i];
+		}
+
+		cout << solve(0,0) << endl;
+	}
+}
+

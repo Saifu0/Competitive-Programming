@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: next_round","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\next_round.cpp","tests":[{"id":1594810619170,"input":"4 2\n0 0 0 0\n4 2\n0 0 0 0\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\next_round.cpp"}

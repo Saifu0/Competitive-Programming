@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: coprime_array","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\coprime_array.cpp","tests":[{"id":1594898284886,"input":"3\n2 7 28\n3\n2 7 28\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\coprime_array.cpp"}

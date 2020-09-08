@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: taxi","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\taxi.cpp","tests":[{"id":1594807678026,"input":"8\n2 3 4 4 2 1 3 1\n8\n2 3 4 4 2 1 3 1\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\taxi.cpp"}

@@ -1,0 +1,16 @@
+a. What is Control statement? Explain any three control statement in detail with example.
+
+In computer science, Control statement is the order in which individual statements, instructions or function calls of an imperative program are executed or evaluated. The emphasis on explicit control flow distinguishes an imperative programming language from a declarative programming language.
+
+Within an imperative programming language, a control flow statement is a statement that results in a choice being made as to which of two or more paths to follow. For non-strict functional languages, functions and language constructs exist to achieve the same result, but they are usually not termed control flow statements.
+
+There are too many types of control statement and three of them is explained below:
+
+1. If-then-(else) statements
+
+Conditional expressions and conditional constructs are features of a programming language which perform different computations or actions depending on whether a programmer-specified boolean condition evaluates to true or false.
+
+* IF..GOTO. A form found in unstructured languages, mimicking a typical machine code instruction, would jump to (GOTO) a label or line number when the condition was met.
+* IF..THEN..(ENDIF). Rather than being restricted to a jump, any simple statement, or nested block, could follow the THEN key keyword. This a structured form.
+IF..THEN..ELSE..(ENDIF). As above, but with a second action to be performed if the condition is false. This is one of the most common forms, with many variations. Some require a terminal ENDIF, others do not. C and related languages do not require a terminal keyword, or a 'then', but do require parentheses around the condition.
+Conditional statements can be and often are nested inside other conditional statements. Some languages allow ELSE and IF to be combined into ELSEIF, avoiding the need to have a series of ENDIF or other final statements at the end of a compound statement.

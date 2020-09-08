@@ -1,0 +1,1 @@
+{"group":"local","interactive":false,"local":true,"memoryLimit":1024,"name":"Local: hard_problem","srcPath":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\hard_problem.cpp","tests":[{"id":1594738822613,"input":"2\n3 3\naaa\naa\n2\n3 3\naaa\naa\n","output":""}],"timeLimit":3000,"url":"c:\\Users\\Saifur Rehman\\Documents\\CP\\1500\\hard_problem.cpp"}

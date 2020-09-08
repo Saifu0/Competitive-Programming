@@ -1,0 +1,52 @@
+#include<bits/stdc++.h>
+using namespace std;
+
+#define NINJA ios_base::sync_with_stdio(0); cin.tie(0); cout.tie(0)
+#define fo(i,n) for(int i=0;i<n;i++)
+#define Fo(i,k,n) for(int i=k;i<n;i++)
+#define for1(i,n) for(int i=1;i<=n;i++)
+#define dloop(i,n) for(int i=n-1;i>=0;i--)
+#define iii tuple<int,int,int>
+#define vi vector<int>
+#define ii pair<int,int>
+#define vii vector<ii>
+#define int long long
+#define pb push_back
+#define endl "\n"
+#define setbits __builtin_popcountll
+#define mp map<int,int>
+#define F first
+#define S second
+#define sz(v) (int)v.size()
+#define mod 1000000007
+#define inf (int)1e18
+
+int mat[35][35];
+
+int32_t main(){
+	NINJA;
+
+	int t; cin >> t;
+	while(t--){
+		int n,m; cin>>n>>m;
+	    for1(i,n) for1(j,m) cin>>mat[i][j];
+	
+	    int o=0,e=0;
+	    int cnt= 0;
+	    for(int k=2;k<=(n+m+1)/2;k++) {
+	        o=0; e=0;
+			    for1(i,n) {
+			        for1(j,m) {
+			            if(i+j==k || i+j==n+m+2-k) {
+			            if(mat[i][j]==0) o++;
+			            else e++;
+			            }
+			        }
+			    }
+	   		 cnt+=min(o,e);
+	    }
+	    cout<<cnt<<endl;
+	}
+	
+	return 0;
+}
